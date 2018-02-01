@@ -18,9 +18,9 @@ learn-***是一个系列教学项目用的实例源代码，全部链接请点�
 - https://gitee.com/mumu-osc/learn-webpack
 - https://github.com/damoqiongqiu/angular-seo
 
-如果你需要一个更复杂、更完整一点的例子，请试试NiceFish：https://gitee.com/mumu-osc/NiceFish
+如果你需要一个更复杂、更完整一点的例子，请试试OpenWMS这个模板项目：https://gitee.com/mumu-osc/OpenWMS-Frontend
 
-如果你想看到关于Angular的更多资源，请点这里：https://damoqiongqiu.github.io
+关于Angular的更多资源、小技巧、文章等，请点这里：http://www.ngfans.net/
 
 ## 在线交流QQ群
 
