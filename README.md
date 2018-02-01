@@ -1,3 +1,5 @@
+The learn-* series projects are designed for Angular beginners in Chinese, please don't use these codes in your prodution.
+
 # Directive
 这是一个教学用的小项目，用来示范Angular新版本里面Directive的基本用法。
 
